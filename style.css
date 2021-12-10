@@ -1,0 +1,180 @@
+body{ 
+margin: 0;
+padding: 30px;
+cursor: crosshair;
+background-image:url(https://cdn.discordapp.com/attachments/904331019824549898/918575805859246150/bgbg.jpg);
+font-family: "Poppins";
+}
+.container{
+text-align: center;
+}
+.button{
+text-align: center;
+color: #FFFF;
+border: 1px solid #000;
+font-family: 'Moon';
+}
+.abstract{
+position: relative;
+top: 220px;
+animation: slider 9s infinite linear
+}
+
+@keyframes slider{
+0%{background-image:url'(https://cdn.discordapp.com/attachments/813131413884108880/915833405344731196/PicsArt_12-02-11.12.43.jpg')};
+35%{background-image:url'(https://cdn.discordapp.com/attachments/813131413884108880/915833405030137906/PicsArt_12-02-11.13.16.jpg)'};
+}
+.btn{
+top: 1000px;
+}
+.errupt{
+color: aqua;
+text-align: center;
+top: 0;
+font-family: 'Sector 034';
+height: 100;
+}
+.btn{
+left: 300px;
+display: block;
+border: 1px solid rgb(0, 255, 242);
+padding: 16px 50px;
+font-size: 16px;
+border-radius: 30px;
+background: none;
+color: azure;
+}
+.btn:hover{
+background-color: rgb(0, 255, 242);
+color: black;
+}
+.btn2{
+font-size: 16px;
+tex-align: center;
+display: block;
+border: 1px solid rgb(0, 255, 242);
+padding: 16px 30px;
+border-radius: 30px;
+background: none;
+color: rgb(255, 255, 255);
+font-family: Moon;
+}
+.btn2:hover{
+background-color: rgb(0, 255, 242);
+color: black;
+}
+.btn3{
+  font-size: 16px;
+display: block;
+border: 1px solid rgb(0, 255, 242);
+padding: 16px 30px;
+border-radius: 30px;
+background: none;
+color: #fff;
+font-family: Moon;
+}
+.btn3:hover{
+background-color: rgb(0, 255, 242);
+color: black;
+}
+.btn4{
+  font-size: 16px;
+display: block;
+border: 1px solid rgb(0, 255, 242);
+padding: 16px 30px;
+border-radius: 30px;
+background: none;
+color: #fff;
+font-family: Moon;
+}
+.btn4:hover{
+background-color: rgb(0, 255, 242);
+color: black;
+left: 200px;
+}
+.data{
+top: 500px;
+color: azure;
+font-family: "Azonix";
+}
+.scroll{
+font-size: 13px;
+display: block;
+border: 1px solid rgb(0, 38, 255);
+border-radius: 30px;
+padding: 10px 30px;
+background: none;
+color: azure;
+}
+.render{
+ font-size: 13px;
+display: block;
+border: 1px solid rgb(0, 38, 255);
+border-radius: 30px;
+padding: 10px 30px;
+background: none;
+color: azure;
+}
+.curier{
+ font-size: 13px;
+display: block;
+border: 1px solid rgb(0, 38, 255);
+border-radius: 30px;
+padding: 10px 30px;
+background: none;
+color: azure;
+}
+.btn5{
+left: 300px;
+display: block;
+border: 1px solid rgb(0, 255, 242);
+padding: 16px 50px;
+font-size: 16px;
+border-radius: 30px;
+background: none;
+color: azure;
+font-family: Moon;
+}
+.btn5:hover{
+background-color: rgb(0, 255, 242);
+color: black;
+}
+.menu{
+color: #fff;
+text-decoration: none;
+}
+.track{
+left: 300px;
+display: block;
+padding: 16px 50px;
+font-size: 16px;
+border-radius: 30px;
+background: none;
+color: black;
+font-family: Moon;
+background: rgb(255, 255, 255);
+  
+}
+.track:hover{
+background-color: rgb(0, 255, 242);
+color: black;
+}
+.Creck{
+color: azure;
+font-family: "mosterrat";
+}
+.inter{
+color: azure;
+font-family: "Moon";
+}
+.rulks{
+color: azure;
+font-family: "Moon";
+}
+.caralom{
+color: azure;
+font-family: "Moon";
+}
+.text{
+color: black;
+}
